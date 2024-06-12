@@ -1,3 +1,9 @@
 [submodule "player-app-microservice"]
 	path = player-app-microservice
 	url = https://github.com/wfgp12/player-app-microservice
+[submodule "user-app-microservice"]
+	path = user-app-microservice
+	url = https://github.com/wfgp12/user-app-microservice
+[submodule "club-app-microservices"]
+	path = club-app-microservices
+	url = https://github.com/wfgp12/club-app-microservices
