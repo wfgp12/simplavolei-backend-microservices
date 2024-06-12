@@ -1,0 +1,3 @@
+[submodule "player-app-microservice"]
+	path = player-app-microservice
+	url = https://github.com/wfgp12/player-app-microservice
